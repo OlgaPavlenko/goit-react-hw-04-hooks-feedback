@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-04-feedback/static/js/main.907e9b9e.chunk.js",
-    "main.js.map": "/goit-react-hw-04-feedback/static/js/main.907e9b9e.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-04-feedback/static/js/runtime-main.30270a50.js",
-    "runtime-main.js.map": "/goit-react-hw-04-feedback/static/js/runtime-main.30270a50.js.map",
-    "static/js/2.291f138a.chunk.js": "/goit-react-hw-04-feedback/static/js/2.291f138a.chunk.js",
-    "static/js/2.291f138a.chunk.js.map": "/goit-react-hw-04-feedback/static/js/2.291f138a.chunk.js.map",
-    "index.html": "/goit-react-hw-04-feedback/index.html",
-    "static/js/2.291f138a.chunk.js.LICENSE.txt": "/goit-react-hw-04-feedback/static/js/2.291f138a.chunk.js.LICENSE.txt"
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.907e9b9e.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.907e9b9e.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.42ec81dd.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.42ec81dd.js.map",
+    "static/js/2.291f138a.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.291f138a.chunk.js",
+    "static/js/2.291f138a.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.291f138a.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
+    "static/js/2.291f138a.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.291f138a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30270a50.js",
+    "static/js/runtime-main.42ec81dd.js",
     "static/js/2.291f138a.chunk.js",
     "static/js/main.907e9b9e.chunk.js"
   ]
